@@ -1,4 +1,4 @@
-/* ASSIGNMENT 15 - Burger 2: The Sequel
+/* Burger 2: The Sequel
 Setting up server and syncing sequelize */ 
 
 // Dependencies
